@@ -1,0 +1,121 @@
+# **Ajustes y Mejoras Implementadas como Resultado de las Pruebas de Usuario**
+
+Tras realizar las pruebas con estudiantes de primaria y secundaria, se han identificado varias áreas de mejora en términos de jugabilidad, efectividad educativa y experiencia de usuario. A continuación, se detallan los ajustes y mejoras implementadas en el juego:
+
+---
+
+### **1. Mejora en la Complejidad de las Operaciones**
+
+**Problema identificado:**
+- Los estudiantes más avanzados, como los de secundaria, comentaron que las operaciones de multiplicación y división en los niveles superiores (Nivel 2 y Nivel 3) no eran lo suficientemente desafiantes.
+
+**Mejoras implementadas:**
+- **Nuevos niveles de dificultad**: Se implementaron **niveles adicionales con operaciones más complejas** que incluyen:
+  - **Multiplicaciones y divisiones con números más grandes** (hasta 20x20).
+  - **Divisiones con decimales** para practicar con divisores no exactos.
+  - **Fracciones** en los niveles más avanzados (por ejemplo, 2/3 ÷ 1/2).
+- Ahora los estudiantes pueden elegir entre más opciones, como problemas con decimales y fracciones, ajustando la dificultad conforme mejoran.
+
+---
+
+### **2. Inclusión de Explicaciones para Respuestas Incorrectas**
+
+**Problema identificado:**
+- Algunos estudiantes comentaron que al equivocarse no entendían por qué la respuesta era incorrecta, lo que dificultaba el aprendizaje a partir de sus errores.
+
+**Mejoras implementadas:**
+- Se incluyó una funcionalidad que **muestra una breve explicación** sobre la operación cuando el usuario da una respuesta incorrecta.
+  - **Ejemplo**: Si un estudiante responde mal una división, el juego ofrece una breve explicación del proceso de la operación (por ejemplo: "Recuerda que para dividir 12 ÷ 4, debes dividir 12 en 4 partes iguales. El resultado es 3").
+- Esto ayuda a los estudiantes a comprender sus errores y reforzar el aprendizaje.
+
+---
+
+### **3. Ajustes en el Tamaño del Texto y Accesibilidad**
+
+**Problema identificado:**
+- Algunos estudiantes mencionaron que el **tamaño de las letras** era pequeño, lo que dificultaba la lectura, especialmente en pantallas de dispositivos móviles o en pantallas con resolución más baja.
+
+**Mejoras implementadas:**
+- **Aumento en el tamaño de la fuente** de las preguntas y los botones de entrada, mejorando la legibilidad en diversas plataformas.
+- Se implementó un **modo de alta accesibilidad** en el que los textos y botones se ajustan automáticamente para ser más grandes y legibles.
+  - Los estudiantes ahora pueden ajustar el tamaño de la fuente desde el menú de configuración si lo necesitan.
+
+---
+
+### **4. Mayor Variedad en las Operaciones y Repetición de Preguntas**
+
+**Problema identificado:**
+- Algunos estudiantes encontraron que las preguntas se repetían con demasiada frecuencia, especialmente en niveles más bajos, lo que limitaba la variedad del juego.
+
+**Mejoras implementadas:**
+- Se implementó un **algoritmo que genera operaciones aleatorias** para asegurar que las preguntas sean únicas en cada partida, reduciendo la repetición de las mismas combinaciones.
+- Para mantener el juego interesante y desafiante, ahora el juego incluye operaciones con **números más variados** y **combinaciones más complejas** a medida que el jugador avanza.
+
+---
+
+### **5. Retroalimentación de Intentos y Sistema de Puntos**
+
+**Problema identificado:**
+- Aunque el sistema de puntos ya premiaba las respuestas correctas, los estudiantes sugerían una retroalimentación más clara sobre cuántos intentos habían hecho antes de obtener la respuesta correcta.
+
+**Mejoras implementadas:**
+- **Modificación en el sistema de puntos**: Ahora el juego **premia los intentos correctos con puntos escalonados** según el número de intentos:
+  - **1er intento correcto**: +100 puntos.
+  - **2do intento correcto**: +50 puntos.
+  - **3er intento o más**: +25 puntos.
+- Se implementó un mensaje que muestra **cuántos intentos se realizaron** para resolver una operación, reforzando la idea de que más intentos no siempre son negativos, sino parte del proceso de aprendizaje.
+
+---
+
+### **6. Mejoras en la Interfaz de Usuario (UI) y Experiencia Visual**
+
+**Problema identificado:**
+- Varios estudiantes indicaron que les gustaría que la interfaz fuera **más atractiva y dinámica**, con más interactividad, especialmente al momento de acertar una respuesta.
+
+**Mejoras implementadas:**
+- Se agregaron **animaciones visuales** para hacer que el juego sea más dinámico:
+  - **Efectos visuales al acierto**: Cuando el estudiante responde correctamente, el botón de la respuesta se resalta en verde con una pequeña animación.
+  - **Animación de puntos**: Los puntos se incrementan visualmente con una animación que hace que el jugador se sienta recompensado de forma inmediata.
+- Se mejoró el **diseño visual del fondo** y los **elementos de la interfaz** (botones, cuadros de texto) para hacer que la experiencia sea más fluida y moderna.
+  - Se añadieron nuevos fondos temáticos, con imágenes matemáticas y efectos visuales que se pueden alternar.
+
+---
+
+### **7. Mejora en la Personalización de la Experiencia**
+
+**Problema identificado:**
+- Algunos usuarios desearon tener más opciones de personalización para ajustar el juego a sus preferencias.
+
+**Mejoras implementadas:**
+- Se incorporó una nueva **pantalla de configuración** donde los usuarios pueden:
+  - Cambiar el **tema visual** del juego (colores de fondo, tipos de letra, etc.).
+  - Activar o desactivar **sonidos y efectos**.
+  - Elegir el tipo de **operaciones matemáticas**: suma, resta, multiplicación, división, fracciones.
+- Los jugadores pueden **personalizar el nivel de dificultad** de forma más granular, seleccionando entre diferentes rangos de números o tipos de operaciones, como decimales o fracciones.
+
+---
+
+### **8. Mejoras en la Funcionalidad de los Botones**
+
+**Problema identificado:**
+- Algunos estudiantes indicaron que el tamaño de los **botones de respuesta** era pequeño y que a veces era difícil interactuar con ellos durante el juego.
+
+**Mejoras implementadas:**
+- Los **botones fueron rediseñados** para ser más grandes y fáciles de presionar, especialmente en dispositivos móviles y pantallas táctiles.
+- Se implementó una opción para hacer los **botones flotantes**, lo que significa que se mueven ligeramente al pasar el mouse o al presionar, haciendo la interacción más divertida y clara.
+
+---
+
+### **9. Añadido un Modo de "Desafío"**
+
+**Problema identificado:**
+- Algunos estudiantes comentaron que, después de jugar varias rondas, el juego se volvía predecible y no les mantenía suficientemente entretenidos.
+
+**Mejoras implementadas:**
+- Se implementó un **modo de "Desafío"** donde los estudiantes deben completar una serie de operaciones en un tiempo limitado. En este modo, las respuestas correctas aumentan la puntuación, pero los errores reducen el tiempo disponible, agregando presión y más dinamismo al juego.
+- **Desafíos diarios**: También se añadió una opción para tener un "desafío del día", donde los estudiantes pueden participar en un conjunto de preguntas diarias que varían en dificultad y se alinean con lo que han aprendido.
+
+---
+
+### **Conclusión de los Ajustes y Mejoras:**
+Las mejoras implementadas como resultado de las pruebas de usuario han aumentado la efectividad educativa del juego, haciendo que los estudiantes no solo disfruten de la experiencia, sino que también continúen aprendiendo de forma desafiante y divertida. El sistema de retroalimentación, la personalización, las mejoras visuales y las nuevas características de dificultad hacen que el juego sea más atractivo tanto para estudiantes de primaria como de secundaria, manteniendo su motivación y fomentando el aprendizaje continuo.
