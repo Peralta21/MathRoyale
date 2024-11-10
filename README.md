@@ -8,10 +8,9 @@ En este juego, los jugadores pueden elegir entre dos tipos de operaciones: **Mul
 
 - **Operaciones**: El juego permite elegir entre multiplicación y división.
 - **Modos de Juego**: El jugador puede elegir entre tres niveles de dificultad, donde el tamaño de la matriz aumenta con el nivel.
-- **Sistema de Puntuación**: La puntuación se acumula en función de cuántos intentos le toma al jugador responder correctamente a cada operación.
-  - 1er intento: 100 puntos
-  - 2do intento: 50 puntos
-  - 3er o más intentos: 25 puntos
+- **Sistema de Puntuación**: La puntuación se acumula en función de aciertos y errores a cada operación.
+  - Respuesta correcta: +100 puntos
+  - Respuesta incorrecta: -50 puntos
 - **Interfaz Gráfica**: Usa la biblioteca `Tkinter` para crear la interfaz gráfica, con botones, entradas de texto y una matriz de operaciones.
 - **Sonidos**: El juego incluye efectos de sonido para las respuestas correctas.
 
