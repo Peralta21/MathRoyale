@@ -25,8 +25,8 @@ Para ejecutar el proyecto, necesitarás tener instalado Python y las siguientes 
 
 ### Instalación de dependencias
 
-1. **Instalar Python 3.x**:
-   Si aún no tienes Python instalado, descarga e instala la última versión de [Python 3.x](https://www.python.org/downloads/).
+1. **Instalar Python 3.9**:
+   Si aún no tienes Python instalado, descarga e instala la última versión de [Python 3.9](https://www.python.org/downloads/) como versión minima.
 
 2. **Instalar las dependencias**:
    En tu terminal o consola de comandos, instala la biblioteca `Pillow` (si no está instalada):
