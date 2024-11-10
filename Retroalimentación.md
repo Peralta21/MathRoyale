@@ -1,4 +1,4 @@
-### **Retroalimentación sobre la Jugabilidad, Efectividad Educativa y Experiencia de Usuario**
+# **Retroalimentación sobre la Jugabilidad, Efectividad Educativa y Experiencia de Usuario**
 
 #### **Estudiante 1: Juan Pérez (9 años, Nivel 1, Multiplicación)**
 
