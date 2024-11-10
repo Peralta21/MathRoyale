@@ -19,7 +19,7 @@ En este juego, los jugadores pueden elegir entre dos tipos de operaciones: **Mul
 
 Para ejecutar el proyecto, necesitarás tener instalado Python y las siguientes bibliotecas:
 
-- **Python 3.x**: Asegúrate de tener Python 3.x instalado. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+- **Python 3.9**: Asegúrate de tener como minimo la versión Python 3.9 instalado. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
 - **Tkinter**: Esta es una biblioteca estándar de Python para interfaces gráficas, pero algunos sistemas operativos pueden requerir que se instale por separado.
 - **Pillow**: Esta es una biblioteca de Python para el procesamiento de imágenes. Puedes instalarla utilizando `pip`.
 
