@@ -150,4 +150,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-Esta guía proporciona instrucciones claras sobre cómo instalar, ejecutar y utilizar el juego, así como detalles sobre la funcionalidad y las características del proyecto. Puedes agregarla al archivo `README.md` de tu repositorio para que otros usuarios puedan comprender cómo usar y contribuir al proyecto.
+Esta guía proporciona instrucciones claras sobre cómo instalar, ejecutar y utilizar el juego, así como detalles sobre la funcionalidad y las características del proyecto para que otros usuarios puedan comprender cómo usar y contribuir al proyecto.
